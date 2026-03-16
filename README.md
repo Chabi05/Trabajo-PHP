@@ -1,6 +1,10 @@
 # Hola Mundo en PHP
 
 Este proyecto es una prueba básica para verificar el funcionamiento de PHP en un entorno Linux.
+## 👤 Datos del Autor
+Nombre: Diego Tello 🧑‍💻
+Carnet: 26005724 🆔
+Correo: djtello05@gmail.com 📧
 
 ## 📝 Descripción
 Un script simple que muestra un saludo personalizado en la terminal de Ubuntu.
@@ -33,7 +37,4 @@ Bash
 
 php hola_mundo.php
 
-# 👤 Datos del Autor
-Nombre: Diego Tello 🧑‍💻
-Carnet: 26005724 🆔
-Correo: djtello05@gmail.com 📧
+
