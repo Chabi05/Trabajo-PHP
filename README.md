@@ -15,7 +15,7 @@ Si no tienes PHP, instala el paquete necesario con este comando en tu terminal d
 ```bash
 sudo apt update && sudo apt install php-cli
 
-## 🏃 Pasos para la Ejecución
+# 🏃 Pasos para la Ejecución
 📂 Abre Visual Studio Code en tu Ubuntu.
 
 📄 Crea el archivo hola_mundo.php.
@@ -33,7 +33,7 @@ Bash
 
 php hola_mundo.php
 
-## 👤 Datos del Autor
+# 👤 Datos del Autor
 Nombre: Diego Tello 🧑‍💻
 Carnet: 26005724 🆔
 Correo: djtello05@gmail.com 📧
